@@ -10,8 +10,8 @@ A cash dispensing application for use in an ATM or similar device
 
 ## This app is designed to:
 1. Emulate a cash dispensing device like an ATM
-2. Suport various denominations and update balance after the transactions automatically
-3. Process transaction request, provide information and dispense legal combinations of notes
+2. Suport various denominations and automatically update the balance after successful transactions
+3. Process transaction requests, provide information and dispense legal combinations of notes
 
 ## Further Development(TODO):
 1. Implement threshold notification and different error notifications for the different reasons for failures
